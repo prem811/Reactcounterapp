@@ -19,4 +19,4 @@ This is a simple React counter application with increment, decrement, and reset 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/prem811/Reactcounterapp.git>
